@@ -2,7 +2,7 @@
 
 ### AIM: 
 
- To Obtain DFT and FFT of a given sequence in SCILAB. 
+ To Obtain DFT using Direct and FFT of a given sequence in SCILAB. 
 
 ### APPARATUS REQUIRED: 
 PC installed with SCILAB. 
@@ -120,4 +120,4 @@ ylabel("∠X(k) (rad)");
 
 
 ### RESULT: 
-Thus, the Discrete Fourier Transform and Fast Fourier Transform of the given sequence were obtained and its magnitude and phase spectrum were plotted.
+Thus, the Discrete Fourier Transform using Direct and Fast Fourier Transform of the given sequence were obtained and its magnitude and phase spectrum were plotted.
